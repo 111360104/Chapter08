@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chapter08</string>
+    <string name="name_label">姓名:</string>
+    <string name="prompt_enter_name">請輸入姓名</string>
+    <string name="label_phone">電話:</string>
+    <string name="prompt_enter_phone">請輸入電話</string>
+    <string name="confirm_add">確認新增</string>
+    <string name="add_contact">新增聯絡人</string>
+    <string name="phone_icon_description">撥打電話</string>
+    <string name="delete_icon_description">刪除</string>
+</resources>
